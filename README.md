@@ -15,6 +15,7 @@ A powerful data analysis assistant powered by LangGraph and OpenAI, inspired by 
 
 ### Analysis Dashboard
 ![Analysis Dashboard](app_images/image_1.png)
+![Analysis Dashboard](app_images/image.png)
 
 ### Chat Interface
 ![Chat Interface](app_images/image_2.png)
