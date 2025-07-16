@@ -147,4 +147,4 @@ This project is licensed under the MIT License - see the LICENSE file for detail
 For questions and support, please open an issue in the GitHub repository.
 
 ---
-Made with ❤️ by the Analyst AI Team 
+Made with ❤️ by Aryan Agarwal
